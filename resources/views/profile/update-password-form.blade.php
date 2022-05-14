@@ -4,7 +4,7 @@
     </x-slot>
 
     <x-slot name="description">
-        {{ __('Ensure your account is using a long, random password to stay secure.') }}
+        {{ __('The password must be at least 10 characters and contain at least one special character.') }}
     </x-slot>
 
     <x-slot name="form">
